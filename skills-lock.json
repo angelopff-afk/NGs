@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "diagram-design": {
+      "source": "cathrynlavery/diagram-design",
+      "commit": "b228c5d77794a84150fca41b22940bb316b1398d",
+      "sourceType": "github",
+      "skillPath": "skills/diagram-design/SKILL.md",
+      "computedHash": "186dff1f5c079a23fb994e5196f65c86a437373cc45777703b956c736cd79203"
+    }
+  }
+}
